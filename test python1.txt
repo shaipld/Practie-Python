@@ -1,0 +1,12 @@
+import time
+
+
+def test():
+	#username = rs.EditBox(default_string=None, message="enter your name: ", title=username)
+	#return username;
+
+def main():
+	test()
+
+	
+main()	
